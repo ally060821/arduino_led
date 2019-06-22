@@ -23,8 +23,8 @@ viod setup(){
 ![image](https://github.com/ally060821/arduino_led/blob/master/image/djdjdjdjdjs.jpg)
 
 
-|||
+|parts|price|
 |-|-|
-|||
-|||
-|||
+|arduino|$20|
+|wire|$1|
+|led|$0.5|
