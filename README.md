@@ -1,2 +1,2 @@
-# arduino_led
-code for arduino led
+# Arduino LED
+This code is for arduino LED 
